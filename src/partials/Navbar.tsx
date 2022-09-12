@@ -6,7 +6,7 @@ return(
 <div>
 <div className="w3-top">
   <div className="w3-bar w3-white w3-card" id="myNavbar">
-    <a href="#home" className="w3-bar-item w3-button w3-wide">LOGO</a>
+    <a href="#home" className="w3-bar-item w3-button w3-wide">VcTech</a>
     {/* <!-- Right-sided navbar links --> */}
     <div className="w3-right w3-hide-small">
       <a href="#about" className="w3-bar-item w3-button">ABOUT</a>
