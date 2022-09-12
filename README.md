@@ -1,1 +1,1 @@
-React app for company site. wagerbot.tech 
+React app for company site. https://wagerbot.tech 
