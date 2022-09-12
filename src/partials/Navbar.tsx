@@ -1,5 +1,6 @@
 import { w3_open, w3_close} from "../utils/w3-utils";
 
+
 function Navbar(){
 
 return(
@@ -12,7 +13,7 @@ return(
       <a href="#about" className="w3-bar-item w3-button">ABOUT</a>
       <a href="#team" className="w3-bar-item w3-button"><i className="fa fa-user"></i> TEAM</a>
       <a href="#work" className="w3-bar-item w3-button"><i className="fa fa-th"></i> WORK</a>
-      <a href="#pricing" className="w3-bar-item w3-button"><i className="fa fa-usd"></i> PRICING</a>
+      <a href="#pricing" className="wLOGO3-bar-item w3-button"><i className="fa fa-usd"></i> PRICING</a>
       <a href="#contact" className="w3-bar-item w3-button"><i className="fa fa-envelope"></i> CONTACT</a>
     </div>
     {/* <!-- Hide right-floated links on small screens and replace them with a menu icon --> */}
